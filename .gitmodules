@@ -1,0 +1,3 @@
+[submodule "hero"]
+	path = hero
+	url = git@github.com:Je-Joestar24/HOME--STYLES__hero.git
